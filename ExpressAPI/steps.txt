@@ -1,0 +1,8 @@
+1. npm init
+2. npm i express
+3. npm i nodemon
+4. change scripts section in package.json to "start": "nodemon app.js"
+5. npm i mongoose
+6. npm i dotenv for connecion string hiding
+7. create .env file and paste connection string
+8. mlab or mongodb://localhost:27017
